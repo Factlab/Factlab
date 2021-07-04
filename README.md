@@ -7,10 +7,10 @@ At Factlab Smart Contract Auditor, we are committed to delivering an independent
 We help our clients on transformative opportunities. We also help them fulfill regulatory smart contract requirements, keep investors informed and meet the needs of all of their stakeholders. And in a fast-changing world, we give them the support they need to be effective today and create long-term value for tomorrow.                
 
 **Our Services :**
-<br> ⛏ Free Smart Contract security checks. 
-<br> 🛠 Full Smart Contract security audit.
-<br> 💻 Passed Audit Video Clip
-<br> 🧨 Sticker Packs
+<br> ⛏ Smart Contract security audit. 
+<br> 🛠 Smart Contract issue checking.
+<br> 💻 Smart Contract video promotion. 
+<br> 🧨 Sticker Packs.
 
 **Connect with us :**
 
